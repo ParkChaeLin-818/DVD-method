@@ -1,19 +1,19 @@
 
 /**
- * 여기에 DVD 클래스 설명을 작성하십시오.
+ * 여기에 DVDSaleCarculate 클래스 설명을 작성하십시오.
  * 
  * @author (작성자 이름) 
  * @version (버전번호나 날짜)
  */
-public class DVD
+public class DVDSaleCarculate
 {
     // 인스턴스 변수 - 다음의 예제를 사용자에 맞게 바꾸십시오
     private int x;
 
     /**
-     * DVD 클래스의 객체 생성자
+     * DVDSaleCarculate 클래스의 객체 생성자
      */
-    public DVD()
+    public DVDSaleCarculate()
     {
         // 인스턴스 변수의 초기화
         x = 0;
